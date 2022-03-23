@@ -1,0 +1,223 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\shivam.pandey\\source\\repos\\StockMarket\\StockMarket.BLL\\StockMarket.BLL.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\shivam.pandey\\source\\repos\\StockMarket\\StockMarket.BLL\\StockMarket.BLL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\shivam.pandey\\source\\repos\\StockMarket\\StockMarket.BLL\\StockMarket.BLL.csproj",
+        "projectName": "StockMarket.BLL",
+        "projectPath": "C:\\Users\\shivam.pandey\\source\\repos\\StockMarket\\StockMarket.BLL\\StockMarket.BLL.csproj",
+        "packagesPath": "C:\\Users\\shivam.pandey\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\shivam.pandey\\source\\repos\\StockMarket\\StockMarket.BLL\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\shivam.pandey\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\shivam.pandey\\source\\repos\\StockMarket\\StockMarket.DAL\\StockMarket.DAL.csproj": {
+                "projectPath": "C:\\Users\\shivam.pandey\\source\\repos\\StockMarket\\StockMarket.DAL\\StockMarket.DAL.csproj"
+              },
+              "C:\\Users\\shivam.pandey\\source\\repos\\StockMarket\\StockMarket.DTO\\StockMarket.DTO.csproj": {
+                "projectPath": "C:\\Users\\shivam.pandey\\source\\repos\\StockMarket\\StockMarket.DTO\\StockMarket.DTO.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.3.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\shivam.pandey\\source\\repos\\StockMarket\\StockMarket.DAL\\StockMarket.DAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\shivam.pandey\\source\\repos\\StockMarket\\StockMarket.DAL\\StockMarket.DAL.csproj",
+        "projectName": "StockMarket.DAL",
+        "projectPath": "C:\\Users\\shivam.pandey\\source\\repos\\StockMarket\\StockMarket.DAL\\StockMarket.DAL.csproj",
+        "packagesPath": "C:\\Users\\shivam.pandey\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\shivam.pandey\\source\\repos\\StockMarket\\StockMarket.DAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\shivam.pandey\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\shivam.pandey\\source\\repos\\StockMarket\\StockMarket.DTO\\StockMarket.DTO.csproj": {
+                "projectPath": "C:\\Users\\shivam.pandey\\source\\repos\\StockMarket\\StockMarket.DTO\\StockMarket.DTO.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.123, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.3.0, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\shivam.pandey\\source\\repos\\StockMarket\\StockMarket.DTO\\StockMarket.DTO.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\shivam.pandey\\source\\repos\\StockMarket\\StockMarket.DTO\\StockMarket.DTO.csproj",
+        "projectName": "StockMarket.DTO",
+        "projectPath": "C:\\Users\\shivam.pandey\\source\\repos\\StockMarket\\StockMarket.DTO\\StockMarket.DTO.csproj",
+        "packagesPath": "C:\\Users\\shivam.pandey\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\shivam.pandey\\source\\repos\\StockMarket\\StockMarket.DTO\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\shivam.pandey\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.123, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.3.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+C:\Users\shivam.pandey\source\repos\StockMarket\StockMarket.DAL\bin\Debug\netcoreapp3.1\StockMarket.DAL.deps.json
+C:\Users\shivam.pandey\source\repos\StockMarket\StockMarket.DAL\bin\Debug\netcoreapp3.1\StockMarket.DAL.dll
+C:\Users\shivam.pandey\source\repos\StockMarket\StockMarket.DAL\bin\Debug\netcoreapp3.1\StockMarket.DAL.pdb
+C:\Users\shivam.pandey\source\repos\StockMarket\StockMarket.DAL\bin\Debug\netcoreapp3.1\StockMarket.DTO.dll
+C:\Users\shivam.pandey\source\repos\StockMarket\StockMarket.DAL\bin\Debug\netcoreapp3.1\StockMarket.DTO.pdb
+C:\Users\shivam.pandey\source\repos\StockMarket\StockMarket.DAL\obj\Debug\netcoreapp3.1\StockMarket.DAL.csproj.AssemblyReference.cache
+C:\Users\shivam.pandey\source\repos\StockMarket\StockMarket.DAL\obj\Debug\netcoreapp3.1\StockMarket.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shivam.pandey\source\repos\StockMarket\StockMarket.DAL\obj\Debug\netcoreapp3.1\StockMarket.DAL.AssemblyInfoInputs.cache
+C:\Users\shivam.pandey\source\repos\StockMarket\StockMarket.DAL\obj\Debug\netcoreapp3.1\StockMarket.DAL.AssemblyInfo.cs
+C:\Users\shivam.pandey\source\repos\StockMarket\StockMarket.DAL\obj\Debug\netcoreapp3.1\StockMarket.DAL.csproj.CoreCompileInputs.cache
+C:\Users\shivam.pandey\source\repos\StockMarket\StockMarket.DAL\obj\Debug\netcoreapp3.1\StockMarket.DAL.csproj.CopyComplete
+C:\Users\shivam.pandey\source\repos\StockMarket\StockMarket.DAL\obj\Debug\netcoreapp3.1\StockMarket.DAL.dll
+C:\Users\shivam.pandey\source\repos\StockMarket\StockMarket.DAL\obj\Debug\netcoreapp3.1\StockMarket.DAL.pdb

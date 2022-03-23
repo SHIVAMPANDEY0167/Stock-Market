@@ -1,0 +1,10 @@
+C:\Users\shivam.pandey\source\repos\StockMarket\StockMarket.DTO\bin\Debug\netcoreapp3.1\StockMarket.DTO.deps.json
+C:\Users\shivam.pandey\source\repos\StockMarket\StockMarket.DTO\bin\Debug\netcoreapp3.1\StockMarket.DTO.dll
+C:\Users\shivam.pandey\source\repos\StockMarket\StockMarket.DTO\bin\Debug\netcoreapp3.1\StockMarket.DTO.pdb
+C:\Users\shivam.pandey\source\repos\StockMarket\StockMarket.DTO\obj\Debug\netcoreapp3.1\StockMarket.DTO.csproj.AssemblyReference.cache
+C:\Users\shivam.pandey\source\repos\StockMarket\StockMarket.DTO\obj\Debug\netcoreapp3.1\StockMarket.DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shivam.pandey\source\repos\StockMarket\StockMarket.DTO\obj\Debug\netcoreapp3.1\StockMarket.DTO.AssemblyInfoInputs.cache
+C:\Users\shivam.pandey\source\repos\StockMarket\StockMarket.DTO\obj\Debug\netcoreapp3.1\StockMarket.DTO.AssemblyInfo.cs
+C:\Users\shivam.pandey\source\repos\StockMarket\StockMarket.DTO\obj\Debug\netcoreapp3.1\StockMarket.DTO.csproj.CoreCompileInputs.cache
+C:\Users\shivam.pandey\source\repos\StockMarket\StockMarket.DTO\obj\Debug\netcoreapp3.1\StockMarket.DTO.dll
+C:\Users\shivam.pandey\source\repos\StockMarket\StockMarket.DTO\obj\Debug\netcoreapp3.1\StockMarket.DTO.pdb
